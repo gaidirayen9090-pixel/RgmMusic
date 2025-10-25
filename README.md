@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>RGM Phinix</title>
+<title>RGM rvayen</title>
 <link rel="stylesheet" href="style.css">
 <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap" rel="stylesheet">
 </head>
@@ -13,7 +13,7 @@
 
 <div class="container">
   <header>
-    <h1>RGM Phinix</h1>
+    <h1>RGM rvayen</h1>
     <p>فنان راب جديد من قفصة | Rap Artist from Gafsa</p>
   </header>
 
